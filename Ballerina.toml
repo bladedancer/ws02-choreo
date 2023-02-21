@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.1.2"
+  export = ["ws02_choreo"]
+  icon = "docs/icon.png"
+  keywords = ["Type/GraphQL","Category/Service","Internal/http"]
+  name = "ws02_choreo"
+  org = "matthewsinc"
+  version = "1.0.1"
+
